@@ -1,9 +1,0 @@
-# aiogram 3.25+ supports the custom emoji button fields used by this bot.
-aiogram>=3.25.0,<4.0
-
-# Async SQLite driver; sqlite3 itself is included with Python.
-aiosqlite>=0.20.0,<1.0
-
-# Install the latest stable downloader with its default dependencies/EJS scripts.
-# FFmpeg and the Deno runtime are installed separately by the Dockerfile.
-yt-dlp[default]
