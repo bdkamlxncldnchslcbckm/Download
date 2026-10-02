@@ -1,0 +1,4 @@
+# Versions specified by the bot's installation instructions.
+aiogram==3.31.0
+Telethon==1.45.0
+cryptography==46.0.5
